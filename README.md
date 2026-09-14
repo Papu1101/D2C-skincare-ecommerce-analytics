@@ -282,26 +282,30 @@ This page focuses on:
 - Customer distribution by age group
 - New versus repeat customer trends
 
----
+D2C-Skincare-Ecommerce-Analytics/
+│
+├── data/
+│   ├── Customers_Cleaned.csv
+│   ├── Products_Cleaned.csv
+│   ├── Orders_Cleaned.csv
+│   ├── Order_items_Cleaned.csv
+│   ├── Returns_Cleaned.csv
+│   └── Reviews_Cleaned.csv
+│
+├── notebooks/
+│   └── D2C_Skincare_Data_Analysis.ipynb
+│
+├── sql/
+│   └── D2C_Skincare_SQL_Analysis.sql
+│
+├── powerbi/
+│   └── D2C_Skincare_Analytics.pbix
+│
+├── screenshots/
+│   ├── executive_overview.png
+│   ├── sales_product_performance.png
+│   └── customer_rfm_analytics.png
+│
+└── README.md
 
-## Key Business Metrics
 
-The project uses the following metrics:
-
-### Total Revenue
-
-Revenue generated from delivered orders.
-
-### Total Orders
-
-Distinct number of delivered orders.
-
-### Total Customers
-
-Distinct customers who placed delivered orders.
-
-### Gross Profit = Revenue - Cost of Goods Sold
-
-
-```text
-Average Order Value = Total Revenue / Total Orders
