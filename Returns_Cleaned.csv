@@ -1,0 +1,80 @@
+return_id,order_id,product_id,return_date,return_reason,refund_status
+R00001,O00011,P003,2024-03-31,Late delivery,Under Review
+R00002,O00023,P007,2025-05-17,Skin irritation,Replacement Sent
+R00003,O00032,P024,2024-07-18,Skin irritation,Refunded
+R00004,O00062,P027,2024-04-10,Changed mind,Under Review
+R00005,O00130,P017,2024-08-26,Skin irritation,Replacement Sent
+R00006,O00158,P004,2024-06-11,Damaged packaging,Replacement Sent
+R00007,O00161,P009,2024-08-26,Late delivery,Replacement Sent
+R00008,O00163,P024,2025-08-28,Skin irritation,Under Review
+R00009,O00196,P003,2024-05-02,Wrong item received,Under Review
+R00010,O00204,P011,2024-03-04,Skin irritation,Replacement Sent
+R00011,O00214,P001,2025-08-11,Late delivery,Refunded
+R00012,O00218,P012,2026-01-05,Damaged packaging,Refunded
+R00013,O00228,P017,2025-10-27,Wrong item received,Refunded
+R00014,O00238,P009,2025-03-15,Wrong item received,Under Review
+R00015,O00253,P017,2024-02-04,Skin irritation,Replacement Sent
+R00016,O00259,P002,2024-06-08,Wrong item received,Replacement Sent
+R00017,O00308,P011,2025-06-29,Late delivery,Replacement Sent
+R00018,O00329,P008,2024-11-02,Skin irritation,Refunded
+R00019,O00343,P008,2025-07-13,Late delivery,Refunded
+R00020,O00345,P002,2024-02-07,Changed mind,Replacement Sent
+R00021,O00348,P018,2025-07-28,Late delivery,Refunded
+R00022,O00392,P003,2025-02-18,Late delivery,Under Review
+R00023,O00419,P004,2026-01-09,Skin irritation,Under Review
+R00024,O00422,P009,2024-11-16,Skin irritation,Replacement Sent
+R00025,O00433,P004,2024-01-23,Changed mind,Replacement Sent
+R00026,O00449,P014,2024-03-13,Wrong item received,Replacement Sent
+R00027,O00451,P016,2024-11-20,Changed mind,Refunded
+R00028,O00456,P004,2024-10-17,Late delivery,Replacement Sent
+R00029,O00459,P010,2024-10-31,Skin irritation,Under Review
+R00030,O00467,P001,2025-11-20,Skin irritation,Refunded
+R00031,O00501,P027,2025-03-27,Damaged packaging,Under Review
+R00032,O00513,P017,2025-07-02,Damaged packaging,Under Review
+R00033,O00517,P016,2024-07-02,Skin irritation,Refunded
+R00034,O00543,P012,2024-08-19,Skin irritation,Under Review
+R00035,O00546,P003,2024-08-29,Damaged packaging,Under Review
+R00036,O00555,P028,2024-11-04,Skin irritation,Refunded
+R00037,O00576,P011,2025-08-19,Changed mind,Replacement Sent
+R00038,O00579,P017,2025-02-05,Wrong item received,Refunded
+R00039,O00584,P012,2025-01-25,Skin irritation,Replacement Sent
+R00040,O00592,P005,2024-04-28,Late delivery,Replacement Sent
+R00041,O00595,P009,2025-10-31,Damaged packaging,Refunded
+R00042,O00607,P001,2024-12-01,Skin irritation,Under Review
+R00043,O00617,P004,2025-07-14,Changed mind,Replacement Sent
+R00044,O00630,P003,2024-12-22,Skin irritation,Under Review
+R00045,O00643,P004,2025-01-27,Damaged packaging,Replacement Sent
+R00046,O00659,P004,2025-10-29,Changed mind,Refunded
+R00047,O00668,P007,2024-01-26,Skin irritation,Under Review
+R00048,O00693,P009,2024-08-25,Damaged packaging,Refunded
+R00049,O00694,P025,2024-11-27,Wrong item received,Replacement Sent
+R00050,O00697,P014,2024-12-16,Changed mind,Replacement Sent
+R00051,O00715,P004,2025-05-13,Damaged packaging,Refunded
+R00052,O00742,P009,2024-06-03,Late delivery,Replacement Sent
+R00053,O00747,P004,2025-08-02,Late delivery,Refunded
+R00054,O00776,P026,2025-12-15,Skin irritation,Refunded
+R00055,O00818,P008,2025-03-14,Damaged packaging,Replacement Sent
+R00056,O00840,P019,2025-05-10,Skin irritation,Under Review
+R00057,O00857,P026,2024-04-01,Skin irritation,Under Review
+R00058,O00880,P001,2024-03-09,Skin irritation,Replacement Sent
+R00059,O00894,P001,2025-02-28,Skin irritation,Refunded
+R00060,O00906,P025,2025-09-05,Changed mind,Under Review
+R00061,O00928,P021,2025-08-20,Late delivery,Refunded
+R00062,O00930,P006,2025-01-21,Skin irritation,Replacement Sent
+R00063,O00977,P002,2024-07-08,Skin irritation,Refunded
+R00064,O01001,P006,2025-11-20,Skin irritation,Under Review
+R00065,O01005,P015,2025-01-31,Late delivery,Refunded
+R00066,O01007,P009,2025-05-06,Late delivery,Refunded
+R00067,O01010,P007,2024-06-01,Late delivery,Under Review
+R00068,O01030,P023,2024-08-27,Wrong item received,Under Review
+R00069,O01048,P009,2025-06-16,Skin irritation,Replacement Sent
+R00070,O01089,P014,2025-09-17,Late delivery,Under Review
+R00071,O01110,P010,2025-10-14,Changed mind,Refunded
+R00072,O01123,P021,2025-02-10,Wrong item received,Replacement Sent
+R00073,O01139,P015,2024-11-18,Wrong item received,Replacement Sent
+R00074,O01144,P014,2025-01-31,Wrong item received,Under Review
+R00075,O01162,P006,2025-07-24,Wrong item received,Under Review
+R00076,O01183,P024,2024-11-04,Skin irritation,Refunded
+R00077,O01201,P021,2025-04-03,Damaged packaging,Replacement Sent
+R00078,O01206,P008,2024-11-28,Damaged packaging,Under Review
+R00079,O01235,P001,2025-10-03,Damaged packaging,Refunded
